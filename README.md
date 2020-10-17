@@ -1,1 +1,1 @@
-# cqrs-mediatr
+# CQRS Using MediatR
